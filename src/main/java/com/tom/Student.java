@@ -11,6 +11,9 @@ public class Student {
         this.english = english;
         this.math = math;
     }
+    public Student() {
+        super();
+    }
     public void print() {
         System.out.println(id + "\t" + name + "\t" + english + "\t" + math + "\t" + (english+math)/2);
     }
