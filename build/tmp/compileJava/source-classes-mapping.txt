@@ -1,8 +1,8 @@
-com/tom/Student.java
- com.tom.Student
 com/tom/HelloWorld.java
  com.tom.HelloWorld
-com/tom/Tester.java
- com.tom.Tester
-com/tom/GraduateStudent.java
- com.tom.GraduateStudent
+com/tom/stud/Student.java
+ com.tom.stud.Student
+com/tom/stud/GraduateStudent.java
+ com.tom.stud.GraduateStudent
+com/tom/stud/Tester.java
+ com.tom.stud.Tester
