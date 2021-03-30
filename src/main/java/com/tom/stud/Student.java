@@ -1,6 +1,6 @@
 package com.tom.stud;
 
-public class Student {
+public abstract class Student {
     String id;
     String name;
     int english;
@@ -17,4 +17,5 @@ public class Student {
     public void print() {
         System.out.println(id + "\t" + name + "\t" + english + "\t" + math + "\t" + (english+math)/2);
     }
+    public abstract void mail();
 }
