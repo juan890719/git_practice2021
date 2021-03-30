@@ -1,14 +1,28 @@
-com/tom/HelloWorld.java
- com.tom.HelloWorld
+com/tom/stud/Mailer.java
+ com.tom.stud.Mailer
 com/tom/stud/Student.java
  com.tom.stud.Student
-com/tom/stud/GraduateStudent.java
- com.tom.stud.GraduateStudent
-com/tom/stud/Tester.java
- com.tom.stud.Tester
 com/tom/shop/Customer.java
  com.tom.shop.Customer
 com/tom/shop/Cost.java
  com.tom.shop.Cost
+com/tom/rpg/Soldier.java
+ com.tom.rpg.Soldier
+com/tom/stud/GraduateStudent.java
+ com.tom.stud.GraduateStudent
+com/tom/HelloWorld.java
+ com.tom.HelloWorld
+box/Box3.java
+ box.Box3
 com/tom/shop/SliverCustomer.java
  com.tom.shop.SliverCustomer
+com/tom/rpg/Villager.java
+ com.tom.rpg.Villager
+com/tom/stud/Tester.java
+ com.tom.stud.Tester
+box/Box.java
+ box.Box
+box/Box5.java
+ box.Box5
+box/Tester.java
+ box.Tester
