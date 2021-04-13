@@ -1,11 +1,13 @@
-com/tom/stud/Mailer.java
- com.tom.stud.Mailer
+box/Box.java
+ box.Box
 com/tom/stud/Student.java
  com.tom.stud.Student
 com/tom/shop/Customer.java
  com.tom.shop.Customer
 com/tom/shop/Cost.java
  com.tom.shop.Cost
+box/Tester.java
+ box.Tester
 com/tom/rpg/Soldier.java
  com.tom.rpg.Soldier
 com/tom/stud/GraduateStudent.java
@@ -20,9 +22,13 @@ com/tom/rpg/Villager.java
  com.tom.rpg.Villager
 com/tom/stud/Tester.java
  com.tom.stud.Tester
-box/Box.java
- box.Box
+com/tom/stud/Mailer.java
+ com.tom.stud.Mailer
 box/Box5.java
  box.Box5
-box/Tester.java
- box.Tester
+racing/Horse.java
+ racing.Horse
+racing/HorseRunnable.java
+ racing.HorseRunnable
+racing/Racing.java
+ racing.Racing
