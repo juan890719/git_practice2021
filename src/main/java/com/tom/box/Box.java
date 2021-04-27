@@ -1,4 +1,4 @@
-package box;
+package com.tom.box;
 
 public abstract class Box {
     int length;

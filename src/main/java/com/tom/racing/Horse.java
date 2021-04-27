@@ -1,4 +1,4 @@
-package racing;
+package com.tom.racing;
 
 public class Horse extends Thread {
     @Override

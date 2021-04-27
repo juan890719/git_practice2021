@@ -1,4 +1,4 @@
-package box;
+package com.tom.box;
 
 public class Box3 extends Box{
     public Box3() {

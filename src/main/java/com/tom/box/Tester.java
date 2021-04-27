@@ -1,4 +1,4 @@
-package box;
+package com.tom.box;
 
 import java.util.Scanner;
 

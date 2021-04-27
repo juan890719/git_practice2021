@@ -1,4 +1,4 @@
-package racing;
+package com.tom.racing;
 
 public class Racing {
     public static void main(String[] args) {

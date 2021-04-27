@@ -1,34 +1,42 @@
-box/Box.java
- box.Box
 com/tom/stud/Student.java
  com.tom.stud.Student
 com/tom/shop/Customer.java
  com.tom.shop.Customer
 com/tom/shop/Cost.java
  com.tom.shop.Cost
-box/Tester.java
- box.Tester
+com/tom/box/Tester.java
+ com.tom.box.Tester
+com/tom/racing/Horse.java
+ com.tom.racing.Horse
+com/tom/racing/Racing.java
+ com.tom.racing.Racing
+com/tom/box/Box5.java
+ com.tom.box.Box5
+test/Box1.java
+ test.Box1
+test/Box.java
+ test.Box
+com/tom/box/Box3.java
+ com.tom.box.Box3
+com/tom/box/Box.java
+ com.tom.box.Box
 com/tom/rpg/Soldier.java
  com.tom.rpg.Soldier
 com/tom/stud/GraduateStudent.java
  com.tom.stud.GraduateStudent
 com/tom/HelloWorld.java
  com.tom.HelloWorld
-box/Box3.java
- box.Box3
+test/Box2.java
+ test.Box2
 com/tom/shop/SliverCustomer.java
  com.tom.shop.SliverCustomer
 com/tom/rpg/Villager.java
  com.tom.rpg.Villager
+com/tom/racing/HorseRunnable.java
+ com.tom.racing.HorseRunnable
 com/tom/stud/Tester.java
  com.tom.stud.Tester
 com/tom/stud/Mailer.java
  com.tom.stud.Mailer
-box/Box5.java
- box.Box5
-racing/Horse.java
- racing.Horse
-racing/HorseRunnable.java
- racing.HorseRunnable
-racing/Racing.java
- racing.Racing
+test/Tester.java
+ test.Tester

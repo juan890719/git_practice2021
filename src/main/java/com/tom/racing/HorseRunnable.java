@@ -1,4 +1,4 @@
-package racing;
+package com.tom.racing;
 
 public class HorseRunnable implements Runnable{
     @Override
