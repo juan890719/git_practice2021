@@ -12,10 +12,10 @@ com/tom/racing/Racing.java
  com.tom.racing.Racing
 com/tom/box/Box5.java
  com.tom.box.Box5
-test/Box1.java
- test.Box1
-test/Box.java
- test.Box
+com/tom/stud/Mailer.java
+ com.tom.stud.Mailer
+com/tom/stud/Tester.java
+ com.tom.stud.Tester
 com/tom/box/Box3.java
  com.tom.box.Box3
 com/tom/box/Box.java
@@ -26,17 +26,23 @@ com/tom/stud/GraduateStudent.java
  com.tom.stud.GraduateStudent
 com/tom/HelloWorld.java
  com.tom.HelloWorld
-test/Box2.java
- test.Box2
+com/tom/racing/HorseRunnable.java
+ com.tom.racing.HorseRunnable
 com/tom/shop/SliverCustomer.java
  com.tom.shop.SliverCustomer
 com/tom/rpg/Villager.java
  com.tom.rpg.Villager
-com/tom/racing/HorseRunnable.java
- com.tom.racing.HorseRunnable
-com/tom/stud/Tester.java
- com.tom.stud.Tester
-com/tom/stud/Mailer.java
- com.tom.stud.Mailer
+test/Box5.java
+ test.Box5
+test/Box3.java
+ test.Box3
+test/Box2.java
+ test.Box2
+test/Box1.java
+ test.Box1
+test/Box4.java
+ test.Box4
+test/Box.java
+ test.Box
 test/Tester.java
  test.Tester
