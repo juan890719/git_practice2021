@@ -48,3 +48,15 @@ com/tom/stud/Tester.java
  com.tom.stud.Tester
 com/tom/collection/Tester.java
  com.tom.collection.Tester
+Anon/Printer.java
+ Anon.Printer
+Anon/WeatherReporter.java
+ Anon.WeatherReporter
+Anon/Reporter.java
+ Anon.Reporter
+Anon/HeheheReporter.java
+ Anon.HeheheReporter
+Anon/Tester.java
+ Anon.Tester
+ Anon.Tester$1
+ Anon.Tester$2
