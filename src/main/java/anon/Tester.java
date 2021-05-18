@@ -1,4 +1,4 @@
-package Anon;
+package anon;
 
 public class Tester {
     public static void main(String[] args) {

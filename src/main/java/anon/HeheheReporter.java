@@ -1,4 +1,4 @@
-package Anon;
+package anon;
 
 public class HeheheReporter implements Reporter{
     public static void main(String[] args) {

@@ -1,3 +1,7 @@
+com/tom/stud/Tester.java
+ com.tom.stud.Tester
+test/Tester.java
+ test.Tester
 com/tom/racing/Racing.java
  com.tom.racing.Racing
 test/Box1.java
@@ -8,6 +12,10 @@ test/Box.java
  test.Box
 com/tom/box/Box3.java
  com.tom.box.Box3
+anon/Tester.java
+ anon.Tester
+ anon.Tester$1
+ anon.Tester$2
 test/Box5.java
  test.Box5
 com/tom/stud/GraduateStudent.java
@@ -22,6 +30,8 @@ com/tom/racing/HorseRunnable.java
  com.tom.racing.HorseRunnable
 com/tom/stud/Mailer.java
  com.tom.stud.Mailer
+anon/WeatherReporter.java
+ anon.WeatherReporter
 com/tom/stud/Student.java
  com.tom.stud.Student
 com/tom/shop/Customer.java
@@ -36,27 +46,31 @@ com/tom/racing/Horse.java
  com.tom.racing.Horse
 com/tom/box/Box5.java
  com.tom.box.Box5
-com/tom/box/Box.java
- com.tom.box.Box
-test/Tester.java
- test.Tester
-com/tom/rpg/Soldier.java
- com.tom.rpg.Soldier
 com/tom/rpg/Villager.java
  com.tom.rpg.Villager
-com/tom/stud/Tester.java
- com.tom.stud.Tester
+anon/Reporter.java
+ anon.Reporter
+anon/HeheheReporter.java
+ anon.HeheheReporter
+com/tom/box/Box.java
+ com.tom.box.Box
 com/tom/collection/Tester.java
  com.tom.collection.Tester
-Anon/Printer.java
- Anon.Printer
-Anon/WeatherReporter.java
- Anon.WeatherReporter
-Anon/Reporter.java
- Anon.Reporter
-Anon/HeheheReporter.java
- Anon.HeheheReporter
-Anon/Tester.java
- Anon.Tester
- Anon.Tester$1
- Anon.Tester$2
+com/tom/rpg/Soldier.java
+ com.tom.rpg.Soldier
+anon/Printer.java
+ anon.Printer
+test0518/Box2.java
+ test0518.Box2
+test0518/Box4.java
+ test0518.Box4
+test0518/Tester.java
+ test0518.Tester
+test0518/Box.java
+ test0518.Box
+test0518/Box3.java
+ test0518.Box3
+test0518/Box1.java
+ test0518.Box1
+snowing/MainWin.java
+ snowing.MainWin
