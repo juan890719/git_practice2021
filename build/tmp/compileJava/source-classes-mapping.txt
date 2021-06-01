@@ -82,3 +82,5 @@ com/tom/car/MapTester.java
  com.tom.car.MapTester
 com/tom/car/CarWin.java
  com.tom.car.CarWin
+com/tom/car/CarDemo.java
+ com.tom.car.CarDemo
