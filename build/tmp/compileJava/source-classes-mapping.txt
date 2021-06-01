@@ -74,3 +74,11 @@ test0518/Box1.java
  test0518.Box1
 snowing/MainWin.java
  snowing.MainWin
+com/tom/car/Car.java
+ com.tom.car.Car
+com/tom/car/Tester.java
+ com.tom.car.Tester
+com/tom/car/MapTester.java
+ com.tom.car.MapTester
+com/tom/car/CarWin.java
+ com.tom.car.CarWin
