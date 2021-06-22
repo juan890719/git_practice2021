@@ -86,5 +86,7 @@ anon/Reporter.java
  anon.Reporter
 test/Tester.java
  test.Tester
+com/tom/db/Drink.java
+ com.tom.db.Drink
 com/tom/db/Tester.java
  com.tom.db.Tester
